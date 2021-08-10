@@ -5,8 +5,6 @@ My Deep Learning notes and Projects
 - Single neuron == linear regression
 ![New doc 10-Aug-2021 11 48 AM_1](https://user-images.githubusercontent.com/87144045/128818214-fbe300f4-769c-44e5-beae-15bcb4f186fe.jpg)
 ![New doc 10-Aug-2021 11 48 AM_2](https://user-images.githubusercontent.com/87144045/128818288-c18b0d12-efc1-40ea-9e4e-e69429f3dd76.jpg)
-- Simple NN : This is made of neurons
-![](https://raw.githubusercontent.com/ashishpatel26/DeepLearning.ai-Summary/master/1-%20Neural%20Networks%20and%20Deep%20Learning/Images//Others/01.jpg)
 
 - **Activation function:** It defines the output of that neuron given set of inputs. Activation function also helps to normalize the output of any input in the range between 1 to -1. Activation function must be efficient and it should reduce the computation time because the neural network sometimes trained on millions of data points.
   - So, we pass that neuron to activation function to bound output values.
@@ -29,4 +27,12 @@ My Deep Learning notes and Projects
    Softmax is used mainly at the last layer i.e output layer for decision making the same as sigmoid activation works
    ![](https://lh5.googleusercontent.com/IL52WzEWdVcfhpKScPD-pUE3VTDbPjo3Genu5I1REyrdhEQ0HGQulOvdMF2NnEXndQov-h7qKWwheg-2y0O-4Od0AZ16BTp2mZIAHwRRKgGT7NxZzhc2HSgkHYHtxZXUX2RAFpao)  
    For Binary classification, both sigmoid, as well as softmax, are equally approachable but in case of multi-class classification problem we generally use softmax and cross-entropy along with it.
-   
+### What is Neural Network?
+- Simple NN : This is made of neurons
+![](https://raw.githubusercontent.com/ashishpatel26/DeepLearning.ai-Summary/master/1-%20Neural%20Networks%20and%20Deep%20Learning/Images//Others/01.jpg)
+- RELU stands for rectified linear unit is the most popular activation function right now that makes deep NNs train faster now.
+- Hidden layers predicts connection between inputs automatically, thats what deep learning is good at.
+![image](https://user-images.githubusercontent.com/87144045/128820608-01da4062-ae2a-47fa-b62f-35c2c03ef835.png)
+- Each Input will be connected to the hidden layer and the NN will decide the connections.
+- Supervised learning means we have the (X,Y) and we need to get the function that maps X to Y.
+-

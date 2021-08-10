@@ -28,5 +28,5 @@ All these neurons have short term memory i.e., what was in the previous neuron o
  - Vanishing Gradient
    - Weight Initialization
    - Echo State Networks
-   - Long Short-Term Memory Networks (LSTM)
+   - Long Short-Term Memory Networks (LSTM)  
   Reading : [On the difficulty of training recurrent neural networks by Razvan Pascanu (2013)](https://arxiv.org/pdf/1211.5063.pdf)

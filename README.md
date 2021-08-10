@@ -35,4 +35,9 @@ My Deep Learning notes and Projects
 ![image](https://user-images.githubusercontent.com/87144045/128820608-01da4062-ae2a-47fa-b62f-35c2c03ef835.png)
 - Each Input will be connected to the hidden layer and the NN will decide the connections.
 - Supervised learning means we have the (X,Y) and we need to get the function that maps X to Y.
--
+![image](https://user-images.githubusercontent.com/87144045/128820912-8f988072-d45c-4b1e-9685-7cc1a4dab3b3.png)
+
+### Why Neural Networks:
+ ![11](https://user-images.githubusercontent.com/87144045/128821041-9adef00e-83ec-4610-af6c-8e27a2930a59.png)
+- For small data, NN can perform as Linear regression or SVM (Support vector machine).
+- For big data, a big NN is better than a medium NN is better than small NN.
